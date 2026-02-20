@@ -1,0 +1,55 @@
+Installation and User Guide
+A.1 Introduction
+
+This appendix describes the installation procedure, environment configuration, and usage steps for the digital equalization application developed as part of the Diploma Thesis.
+
+A.2 System Requirements
+
+To run the application, a computer with the following specifications is required:
+
+Operating System: Windows 10/11, macOS, or Linux
+
+Programming Language: Python (version 3.8 or newer)
+
+Internet Connection: Required only for the initial installation of Python packages
+
+A.3 Environment Setup
+
+To prepare the execution environment, follow these steps:
+
+1. Install Python
+
+If Python is not already installed, download and install it from the official website:
+
+https://www.python.org
+
+On Windows, make sure to select the option “Add Python to PATH” during installation.
+
+2. Download the Application Files
+
+Place the following files in the same folder:
+
+diplomatic_app.py
+
+csmooth.py
+
+target_eq.py
+
+3. Install Required Libraries
+
+Open a terminal (Command Prompt or PowerShell) inside the application folder and run:
+
+pip install streamlit numpy scipy pandas matplotlib soundfile
+
+Alternatively, if a requirements.txt file is provided, run:
+
+pip install -r requirements.txt
+A.4 Running the Application
+
+To launch the application, execute the following command in the terminal:
+
+streamlit run diplomatic_app.py
+
+After running the command, the application will automatically open in your default web browser at:
+
+http://localhost:8501
