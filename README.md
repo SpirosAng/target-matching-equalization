@@ -62,3 +62,9 @@ Instead of directly inverting the raw response, psychoacoustic complex smoothing
 ---
 
 ## Project Structure
+
+Hatziantoniou, P. D., & Mourjopoulos, J. N. (2000). Generalized Fractional-Octave Smoothing of Audio and Acoustic Responses. Journal of the Audio Engineering Society, 48(5).Hatziantoniou, P. D., & Mourjopoulos, J. N. (2000). Generalized Fractional-Octave Smoothing of Audio and Acoustic Responses. Journal of the Audio Engineering Society, 48(5).
+
+Hatziantoniou, P (2007) Ανάπτυξη μεθόδων ψηφιακής ισοστάθμισης για ηλεκτρακουστικές εφαρμογές https://hdl.handle.net/10889/307 
+
+Zachos, P. (2023). Complex Smoothing MATLAB Implementation [Source Code]. GitHub Repository: https://github.com/Panagiotis-Zachos/complex_smoothing 
